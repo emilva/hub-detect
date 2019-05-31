@@ -8,6 +8,7 @@ Hub Detect offers package management level analysis combined with signature scan
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/blackducksoftware/hub-detect/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/blackducksoftware/hub-detect/branches/master)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.blackducksoftware.integration%3Ahub-detect&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.blackducksoftware.integration%3Ahub-detect)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2Fhub-detect.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2Fhub-detect?ref=badge_shield)
 
 ## Where can I get the latest release? ##
 Available from GitHub by running:  
@@ -16,3 +17,7 @@ bash <(curl -s https://blackducksoftware.github.io/hub-detect/hub-detect.sh)
 ## Documentation
 
 All documentation is located on our public [Black Duck Confluence](https://blackducksoftware.atlassian.net/wiki/spaces/INTDOCS/pages/49131875/Hub+Detect)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2Fhub-detect.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2Fhub-detect?ref=badge_large)
